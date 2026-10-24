@@ -1,4 +1,6 @@
 package com.antecap.inscripciones.enums;
 
-public class EstadoInscripcion {
+public enum EstadoInscripcion {
+    ACTIVA,
+    CANCELADA
 }
