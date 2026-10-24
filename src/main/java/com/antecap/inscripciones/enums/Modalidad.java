@@ -1,4 +1,7 @@
 package com.antecap.inscripciones.enums;
 
-public class Modalidad {
+public enum Modalidad {
+    PRESENCIAL,
+    VIRTUAL,
+    HIBRIDA
 }
